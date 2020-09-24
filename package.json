@@ -1,0 +1,15 @@
+{
+  "name": "skinrunlab",
+  "version": "1.0.0",
+  "description": "this is for deeplearnning's lab",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "skinrun@liuwei",
+  "license": "ISC"
+}
