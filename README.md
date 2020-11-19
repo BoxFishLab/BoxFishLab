@@ -10,4 +10,4 @@
 >>>>>>> 期待在你的代码😳里出现熟悉的: import QuantFlow as Qf<br>
 >>>>>>> 并开始一段无比简易的调参炼丹之路: Qf.__start__<br>
 
- 
+<img src="http://boxfishlab.com/static/images/quantflow.png">
