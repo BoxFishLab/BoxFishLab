@@ -11,3 +11,5 @@
 >>>>>>> 并开始一段无比简易的调参炼丹之路: Qf.__start__<br>
 
 ![QuantFlow](http://boxfishlab.com/static/images/quantflow.png)
+
+[![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoxFishLab&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
