@@ -14,4 +14,6 @@
 
 [![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoxFishLab&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/BoxFishLab/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoxFishLab&layout=compact)](https://github.com/BoxFishLab/github-readme-stats)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=BoxFishLab&theme=dracula)](https://github.com/BoxFishLab/github-readme-activity-graph)
 
+![](https://visitor-badge.glitch.me/badge?page_id=BoxFishLab)
