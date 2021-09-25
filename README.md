@@ -10,10 +10,10 @@
 >>>>>>> 期待在你的代码😳里出现熟悉的: import QuantFlow as Qf<br>
 >>>>>>> 并开始一段无比简易的调参炼丹之路: Qf.__start__<br>
 
-![QuantFlow](http://boxfishlab.com/static/images/quantflow.png)
-
-[![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoxFishLab&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/BoxFishLab/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoxFishLab&layout=compact)](https://github.com/BoxFishLab/github-readme-stats)
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=BoxFishLab&theme=dracula)](https://github.com/BoxFishLab/github-readme-activity-graph)
+|Commit|skill|
+|----|----|
+|[![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoxFishLab&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/BoxFishLab/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoxFishLab&layout=compact)](https://github.com/BoxFishLab/github-readme-stats)
+|[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=BoxFishLab&theme=dracula)](https://github.com/BoxFishLab/github-readme-activity-graph)
+|
 
 ![](https://visitor-badge.glitch.me/badge?page_id=BoxFishLab)
