@@ -11,3 +11,4 @@
 >>>>>>> 并开始一段无比简易的调参炼丹之路: Qf.__start__<br>
 >>>>>>> 即将提供两个开发版：本地版/服务器版 software
 
+[![Star History Chart](https://api.star-history.com/svg?repos=BoxFishLab/BoxFishLab&type=Date)](https://star-history.com/#BoxFishLab/BoxFishLab&Date)
